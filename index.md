@@ -11,7 +11,7 @@ Workshop slides:
 - [HTML format](slides/r-for-statistical-analysis.html){:target="_blank"}
 - [PDF format](slides/r-for-statistical-analysis.pdf){:target="_blank"}
 
-R markdown files
+R markdown files:
 - [R markdown without answers](slides/RMarkdown_wo_answers.Rmd){:target="_blank"}
 - [R markdown with answers](slides/RMarkdown_answers.Rmd){:target="_blank"}
 
