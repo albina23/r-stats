@@ -12,8 +12,8 @@ Workshop slides:
 - [PDF format](slides/r-for-statistical-analysis.pdf){:target="_blank"}
 
 R markdown files
-- [R markdown without answers](slides/R for statistical analysis (without answers).Rmd){:target="_blank"}
-- [R markdown with answers](slides/R for statistical analysis (with answers).Rmd){:target="_blank"}
+- [R markdown without answers](slides/RMarkdown_wo_answers.Rmd){:target="_blank"}
+- [R markdown with answers](slides/RMarkdown_answers.Rmd){:target="_blank"}
 
 ## Pre-workshop setup
 To participate fully you will need to install the latest versions of R and RStudio on your computer ahead of time.
