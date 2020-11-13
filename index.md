@@ -13,7 +13,7 @@ Workshop slides:
 
 R markdown files:
 - [R markdown without answers](slides/RMarkdown_wo_answers.Rmd){:target="_blank"}
-- [R markdown with answers](slides/RMarkdown_answers.Rmd){:target="_blank"}
+- [R markdown with answers](https://github.com/ubc-library-rc/r-stats/blob/master/slides/RMarkdown_answers.Rmd){:target="_blank"}
 
 ## Pre-workshop setup
 To participate fully you will need to install the latest versions of R and RStudio on your computer ahead of time.
