@@ -9,11 +9,11 @@ output: html_document
 
 Install packages for statistical analysis
 ```{r}
-#install.packages("psych") # a statistical analysis package
-#install.packages("rstatix") # a statistical analysis package
-#install.packages("dplyr") # a data manipulation package
-#install.packages("ggplot2") # a data visualization package
-#install.packages("GGally") # a data visualization package (extension of ggplot2)
+install.packages("psych") # a statistical analysis package
+install.packages("rstatix") # a statistical analysis package
+install.packages("dplyr") # a data manipulation package
+install.packages("ggplot2") # a data visualization package
+install.packages("GGally") # a data visualization package (extension of ggplot2)
 ```
 
 
